@@ -58,6 +58,16 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.slick-track img
+{
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 .slick-track:before,
 .slick-track:after
 {
@@ -89,13 +99,26 @@ border: 10px solid white;
 .slick-slide img
 {
     display: block;
+    border-radius: 10px;
+    margin: 0 auto;
 }
+
+.sliding-images {
+    display: block;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
 .slick-slide.slick-loading img
 {
     display: none;
+    border-radius: 10px;
+    margin: 0 auto;
 }
 .slick-slide.dragging img
 {
+    border-radius: 10px;
+    margin: 0 auto;
     pointer-events: none;
 }
 .slick-initialized .slick-slide

@@ -9794,3 +9794,10 @@ header.masthead h1 {
   align-items: center;
 }
 
+.presents {
+  font-family: 'Dancing Script', cursive;
+  text-transform: lowercase;
+  font-style: italic;
+  font-weight: 400;
+}
+

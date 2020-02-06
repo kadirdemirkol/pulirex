@@ -9801,3 +9801,10 @@ header.masthead h1 {
   font-weight: 400;
 }
 
+.one-product-text {
+  height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+}
+
